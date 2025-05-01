@@ -8,7 +8,8 @@ It includes basic elements like headings, paragraphs, images, and links.
 - Using headings (`<h1>` to `<h6>`)
 - Adding paragraphs and line breaks
 - Inserting images and links
-
+- Making forms 
+- Isertion video and audio
 ## Technologies Used:
 - HTML
 
