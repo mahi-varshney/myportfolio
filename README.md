@@ -9,7 +9,7 @@ It includes basic elements like headings, paragraphs, images, and links.
 - Adding paragraphs and line breaks
 - Inserting images and links
 - Making forms 
-- Isertion video and audio
+- Inserting video and audio
 ## Technologies Used:
 - HTML
 
